@@ -53,10 +53,6 @@ ASP.NET Core MVC ve Entity Framework Core kullanılarak geliştirilmiş web taba
 ---
 
 ## 📊 GitHub İstatistiklerim
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yarenbuseyazici&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren Buse'nin GitHub İstatistikleri" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenbuseyazici&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="170"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yarenbuseyazici&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
