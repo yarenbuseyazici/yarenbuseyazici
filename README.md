@@ -56,7 +56,7 @@ ASP.NET Core MVC ve Entity Framework Core kullanılarak geliştirilmiş web taba
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yarenbuseyazici&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yaren Buse'nin GitHub İstatistikleri" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenbuseyazici&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yarenbuseyazici&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren Buse'nin GitHub İstatistikleri" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenbuseyazici&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="170"/>
 
 </div>
